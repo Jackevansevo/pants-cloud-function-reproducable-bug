@@ -1,3 +1,20 @@
+# Reproduce bug
+
+    pants package functions:cloud_function
+
+```
+ProcessExecutionFailure: Process 'Build python_google_cloud_function artifact for functions:cloud_function' failed with exit code 1.
+stdout:
+
+stderr:
+Failed to resolve requirements from PEX environment @ /tmp/pants-sandbox-pyrYT1/faas_repository.pex.
+Needed cp311-cp311-linux_x86_64 compatible dependencies for:
+ 1: greenlet!=0.4.17; platform_machine == "aarch64" or (platform_machine == "ppc64le" or (platform_machine == "x86_64" or (platform_machine == "amd64" or (platform_machine == "AMD64" or (platform_machine == "win32" or platform_machine == "WIN32")))))
+    Required by:
+      SQLAlchemy 2.0.29
+    But this pex had no ProjectName(raw='greenlet', validated=False, normalized='greenlet') distributions.
+```
+
 # Create virtualenv
 
     rm -rf dist/export/python/virtualenvs && pants export --resolve=python-default
