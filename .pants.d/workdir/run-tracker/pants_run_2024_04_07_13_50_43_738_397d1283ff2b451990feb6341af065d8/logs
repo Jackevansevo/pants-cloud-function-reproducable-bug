@@ -1,5 +1,0 @@
-13:50:47.08 [WARN] File watcher exiting with: The watcher was shut down.
-13:50:52.48 [INFO] Completed: Build pex for resolve `python-default`
-13:50:53.70 [INFO] Completed: Get interpreter version
-13:50:53.70 [INFO] notify invalidation: cleared 1 and dirtied 7 nodes for: {"", ".tmpGNNUSM.hardlink_canary"}
-13:50:53.70 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", ".tmpGNNUSM.hardlink_canary"}

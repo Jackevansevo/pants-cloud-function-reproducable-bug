@@ -1,8 +1,0 @@
-18:49:18.94 [WARN] File watcher exiting with: The watcher was shut down.
-18:49:18.97 [31m[ERROR][0m 1 Exception encountered:
-
-Engine traceback:
-  in `package` goal
-
-InvalidTargetException: functions/BUILD:14: The `complete_platforms` takes precedence over the `runtime` field, if it is set. Remove the `runtime` field to only use the `complete_platforms` value, or remove the `complete_platforms` field to use the default platform implied by `runtime`.
-

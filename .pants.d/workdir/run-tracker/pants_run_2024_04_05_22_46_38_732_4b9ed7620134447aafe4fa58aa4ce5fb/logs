@@ -1,6 +1,0 @@
-22:46:38.84 [INFO] Canceled: Building 2 requirements for gunicorn.pex from the 3rdparty/python/default.lock resolve: flask, gunicorn
-22:46:38.84 [INFO] Canceled: Building docker image app:latest
-22:46:40.36 [INFO] Completed: Building docker image app:latest
-22:46:40.36 [INFO] Wrote dist/app.docker-info.json
-Built docker image: app:latest
-Docker image ID: sha256:a020561f07bad946f7437734dc9a6f9ec0f4c77c6c4d721108a3b7ff42fa3668

@@ -1,8 +1,0 @@
-23:05:47.89 [INFO] Completed: Building docker image app:latest
-23:05:47.90 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".app.py.swp"}
-23:05:47.95 [INFO] Canceled: Building 2 requirements for gunicorn.pex from the 3rdparty/python/default.lock resolve: flask, gunicorn
-23:05:49.22 [INFO] Completed: Building 2 requirements for gunicorn.pex from the 3rdparty/python/default.lock resolve: flask, gunicorn
-23:05:49.77 [INFO] Completed: Building docker image app:latest
-23:05:49.77 [INFO] Wrote dist/app.docker-info.json
-Built docker image: app:latest
-Docker image ID: sha256:f9cdeba5cead0ac969c1183befa9a1d957e6690512f9ea3be509e54e978ca198

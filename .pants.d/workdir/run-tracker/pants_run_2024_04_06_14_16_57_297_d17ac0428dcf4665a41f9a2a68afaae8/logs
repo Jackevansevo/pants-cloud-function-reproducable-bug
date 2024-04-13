@@ -1,4 +1,0 @@
-14:17:01.43 [WARN] File watcher exiting with: The watcher was shut down.
-14:17:01.53 [INFO] notify invalidation: cleared 1 and dirtied 261 nodes for: {"", ".tmp3BXAry.hardlink_canary"}
-14:17:01.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", ".tmp3BXAry.hardlink_canary"}
-14:17:01.53 [INFO] Wrote dist/flask.pex

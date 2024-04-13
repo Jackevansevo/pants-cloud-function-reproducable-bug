@@ -1,9 +1,0 @@
-13:30:25.86 [WARN] File watcher exiting with: The watcher was shut down.
-13:30:25.89 [33m[WARN][0m Unmatched globs from //:root's `sources` field: ["*.py", "*.pyi"], excludes: ["*_test.py", "*_test.pyi", "conftest.py", "test_*.py", "test_*.pyi", "tests.py", "tests.pyi"]
-
-Do the file(s) exist? If so, check if the file(s) are in your `.gitignore` or the global `pants_ignore` option, which may result in Pants not being able to see the file(s) even though they exist on disk. Refer to https://www.pantsbuild.org/troubleshooting#pants-cannot-find-a-file-in-your-project.
-13:30:25.91 [INFO] notify invalidation: cleared 1 and dirtied 113 nodes for: {"", ".tmpaasjih.hardlink_canary"}
-13:30:25.91 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", ".tmpaasjih.hardlink_canary"}
-13:30:25.91 [INFO] notify invalidation: cleared 1 and dirtied 24 nodes for: {"services", "services/BUILD"}
-13:30:25.91 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"services/BUILD"}
-13:30:25.91 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"services", "services/BUILD"}

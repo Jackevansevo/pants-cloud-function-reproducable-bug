@@ -1,3 +1,0 @@
-11:23:15.52 [WARN] File watcher exiting with: The watcher was shut down.
-11:23:16.91 [INFO] Completed: Format with `ruff format` - ruff format made no changes.
-11:23:16.94 [INFO] Completed: Lint with `ruff check` - ruff check succeeded.

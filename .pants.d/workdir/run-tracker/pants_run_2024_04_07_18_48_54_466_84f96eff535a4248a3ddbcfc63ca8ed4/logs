@@ -1,8 +1,0 @@
-18:48:58.52 [WARN] File watcher exiting with: The watcher was shut down.
-18:48:58.55 [31m[ERROR][0m 1 Exception encountered:
-
-Engine traceback:
-  in `package` goal
-
-InvalidTargetException: functions/BUILD:14: Unrecognized field `platforms=['linux_x86_64-cp311-cp311']` in target functions:cloud_function. Valid fields for the target type `python_google_cloud_function`: ['complete_platforms', 'dependencies', 'description', 'environment', 'handler', 'output_path', 'pex3_venv_create_extra_args', 'resolve', 'runtime', 'tags', 'type'].
-

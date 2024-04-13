@@ -1,8 +1,0 @@
-13:43:01.79 [WARN] File watcher exiting with: The watcher was shut down.
-13:43:06.34 [INFO] Completed: Building 6 requirements for services/gunicorn.pex from the 3rdparty/python/default.lock resolve: flask, flask-migrate, flask-sqlalchemy, gunicorn, psycopg[binary], sqlalchemy
-13:43:06.71 [INFO] Completed: Building docker image app:latest
-13:43:06.71 [INFO] notify invalidation: cleared 1 and dirtied 264 nodes for: {".tmpr65wNs.hardlink_canary", ""}
-13:43:06.71 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", ".tmpr65wNs.hardlink_canary"}
-13:43:06.71 [INFO] Wrote dist/services/app.docker-info.json
-Built docker image: app:latest
-Docker image ID: sha256:502703aedfa48c8de80adab6c6296dcfff6505542c6364931138c03f48ce33fb

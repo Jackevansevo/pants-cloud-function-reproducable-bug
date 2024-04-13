@@ -1,2 +1,0 @@
-22:47:00.87 [INFO] Completed: Building 2 requirements for gunicorn.pex from the 3rdparty/python/default.lock resolve: flask, gunicorn
-22:47:00.87 [INFO] Wrote dist/gunicorn.pex

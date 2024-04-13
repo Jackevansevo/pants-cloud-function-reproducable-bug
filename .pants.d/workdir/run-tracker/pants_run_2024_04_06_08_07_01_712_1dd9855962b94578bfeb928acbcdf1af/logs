@@ -1,2 +1,0 @@
-08:07:02.42 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".app.py.swp"}
-08:07:14.09 [INFO] Completed: Building 3 requirements for flask.pex from the 3rdparty/python/default.lock resolve: flask, flask-shell-ipython, python-dotenv

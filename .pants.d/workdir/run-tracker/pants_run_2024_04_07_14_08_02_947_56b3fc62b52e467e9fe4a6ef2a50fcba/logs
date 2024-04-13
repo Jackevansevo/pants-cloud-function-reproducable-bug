@@ -1,4 +1,0 @@
-14:08:06.38 [WARN] File watcher exiting with: The watcher was shut down.
-14:08:06.48 [INFO] notify invalidation: cleared 1 and dirtied 249 nodes for: {".tmpOvF2ZI.hardlink_canary", ""}
-14:08:06.48 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", ".tmpOvF2ZI.hardlink_canary"}
-14:08:06.48 [INFO] Wrote dist/services/gunicorn.pex

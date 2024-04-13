@@ -1,3 +1,0 @@
-23:00:06.63 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".BUILD.swp"}
-23:00:07.19 [INFO] Completed: Building 2 requirements for gunicorn.pex from the 3rdparty/python/default.lock resolve: flask, gunicorn
-23:00:07.20 [INFO] Wrote dist/gunicorn.pex

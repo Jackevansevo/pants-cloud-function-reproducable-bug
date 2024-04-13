@@ -1,9 +1,0 @@
-11:24:58.85 [WARN] File watcher exiting with: The watcher was shut down.
-11:25:00.39 [31m[ERROR][0m Completed: Lint with `ruff check` - ruff check failed (exit code 1).
-app.py:1:1: I001 [*] Import block is un-sorted or un-formatted
-Found 1 error.
-[*] 1 fixable with the `--fix` option.
-
-
-
-11:25:00.40 [INFO] Completed: Format with `ruff format` - ruff format made no changes.

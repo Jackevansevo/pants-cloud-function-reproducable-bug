@@ -3,7 +3,6 @@ python_sources()
 python_google_cloud_function(
     name="cloud_function",
     runtime="python311",
-    # Pants will convert this to `project.google_cloud_function_example:example_handler`.
     handler="main.py:handler",
     type="http",
 )

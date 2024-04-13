@@ -1,9 +1,0 @@
-11:37:02.58 [WARN] File watcher exiting with: The watcher was shut down.
-11:37:02.63 [INFO] notify invalidation: cleared 1 and dirtied 91 nodes for: {"", ".tmpqomYX2.hardlink_canary"}
-11:37:02.63 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", ".tmpqomYX2.hardlink_canary"}
-11:37:02.63 [INFO] notify invalidation: cleared 1 and dirtied 29 nodes for: {"migrations", "migrations/BUILD"}
-11:37:02.63 [INFO] notify invalidation: cleared 1 and dirtied 24 nodes for: {"migrations/versions/BUILD", "migrations/versions"}
-11:37:02.63 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"migrations/BUILD"}
-11:37:02.63 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"migrations", "migrations/BUILD"}
-11:37:02.63 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"migrations/versions/BUILD"}
-11:37:02.63 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"migrations/versions", "migrations/versions/BUILD"}

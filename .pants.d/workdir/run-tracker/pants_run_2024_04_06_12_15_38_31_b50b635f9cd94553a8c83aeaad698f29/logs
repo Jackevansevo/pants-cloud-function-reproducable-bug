@@ -1,2 +1,0 @@
-12:15:42.14 [WARN] File watcher exiting with: The watcher was shut down.
-12:15:46.51 [INFO] Completed: Building 7 requirements for flask.pex from the 3rdparty/python/default.lock resolve: flask, flask-migrate, flask-shell-ipython, flask-sqlalchemy, psycopg[binary], python-dotenv, sqlalchemy

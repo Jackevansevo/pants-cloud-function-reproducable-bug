@@ -1,3 +1,0 @@
-16:00:22.25 [WARN] File watcher exiting with: The watcher was shut down.
-16:00:22.30 [INFO] Reading /home/jackevans/code/pantstest/.python-version to determine desired version for [python-bootstrap].search_path.
-16:00:23.77 [INFO] Completed: Format with `ruff format` - ruff format made no changes.

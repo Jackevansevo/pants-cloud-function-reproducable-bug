@@ -1,6 +1,0 @@
-21:55:41.22 [INFO] Completed: Building docker image docker:latest
-21:55:41.23 [INFO] notify invalidation: cleared 1 and dirtied 168 nodes for: {".tmpEwFqTh.hardlink_canary", ""}
-21:55:41.23 [INFO] notify invalidation: cleared 1 and dirtied 168 nodes for: {"", ".tmpEwFqTh.hardlink_canary"}
-21:55:41.23 [INFO] Wrote dist/docker.docker-info.json
-Built docker image: docker:latest
-Docker image ID: sha256:e327d9aa248968084a53e0ae31bc96ad20655dad3606b337dac7e308651e9a52

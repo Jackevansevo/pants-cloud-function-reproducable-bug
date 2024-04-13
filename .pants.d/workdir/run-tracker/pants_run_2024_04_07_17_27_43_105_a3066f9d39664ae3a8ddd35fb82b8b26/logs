@@ -1,8 +1,0 @@
-17:27:47.03 [WARN] File watcher exiting with: The watcher was shut down.
-17:27:47.06 [31m[ERROR][0m 1 Exception encountered:
-
-Engine traceback:
-  in `package` goal
-
-InvalidTargetException: functions/BUILD:14: The 'entry_point' field in target functions:cloud_function must be a string, but was `['main.py']` with type `list`.
-

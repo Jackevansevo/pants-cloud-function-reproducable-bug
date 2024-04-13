@@ -1,3 +1,0 @@
-18:54:26.36 [WARN] File watcher exiting with: The watcher was shut down.
-18:54:26.44 [INFO] Reading /home/jackevans/code/pantstest/.python-version to determine desired version for [python-bootstrap].search_path.
-18:54:32.08 [INFO] Completed: Building 8 requirements for services/flask.pex from the 3rdparty/python/default.lock resolve: flask, flask-migrate, flask-shell-ipython, flask-sqlalchemy, pdbpp, psycopg[binary], python-dotenv, sqlalc... (4 characters truncated)

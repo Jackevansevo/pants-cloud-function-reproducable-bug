@@ -1,8 +1,0 @@
-16:15:53.66 [WARN] File watcher exiting with: The watcher was shut down.
-16:15:53.77 [INFO] Reading /home/jackevans/code/pantstest/.python-version to determine desired version for [python-bootstrap].search_path.
-16:15:55.65 [INFO] Completed: Building docker image app:latest
-16:15:55.66 [INFO] notify invalidation: cleared 1 and dirtied 348 nodes for: {".tmph42XXw.hardlink_canary", ""}
-16:15:55.66 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".tmph42XXw.hardlink_canary", ""}
-16:15:55.66 [INFO] Wrote dist/services/app.docker-info.json
-Built docker image: app:latest
-Docker image ID: sha256:bb8585866794db57b9162a8622a573cb53596905927271501b8ac3b7ff30822a

@@ -1,8 +1,0 @@
-16:23:21.69 [WARN] File watcher exiting with: The watcher was shut down.
-16:23:21.75 [31m[ERROR][0m 1 Exception encountered:
-
-Engine traceback:
-  in `generate-lockfiles` goal
-
-InvalidTargetException: functions/BUILD:14: Values for the 'runtime' field in target functions:cloud_function must be one of ['python310', 'python311', 'python37', 'python38', 'python39'], but 'python312' was provided.
-

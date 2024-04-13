@@ -1,8 +1,0 @@
-16:35:53.75 [WARN] File watcher exiting with: The watcher was shut down.
-16:35:53.78 [31m[ERROR][0m 1 Exception encountered:
-
-Engine traceback:
-  in `package` goal
-
-InvalidFieldException: functions/BUILD:14: Failed to get dependencies for functions:cloud_function: The file or directory 'functions/app.py' does not exist on disk in the workspace, so the address 'functions/app.py' from the `dependencies` field from the target functions:cloud_function cannot be resolved.
-
