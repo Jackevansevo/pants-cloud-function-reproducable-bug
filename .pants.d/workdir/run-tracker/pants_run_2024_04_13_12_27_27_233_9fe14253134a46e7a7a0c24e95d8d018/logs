@@ -1,0 +1,14 @@
+12:27:31.75 [WARN] File watcher exiting with: The watcher was shut down.
+12:27:31.78 [31m[ERROR][0m 1 Exception encountered:
+
+Engine traceback:
+  in `package` goal
+
+ResolveError: The address functions:gcp from CLI arguments does not exist.
+
+The target name ':gcp' is not defined in the directory functions. Did you mean one of these target names?
+
+  * :function
+  * :functions
+  * :gcf
+

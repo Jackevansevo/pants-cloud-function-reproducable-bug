@@ -1,0 +1,11 @@
+14:47:23.16 [WARN] File watcher exiting with: The watcher was shut down.
+14:47:24.62 [33m[WARN][0m Completed: Format with `ruff format` - ruff format made changes.
+  app.py
+14:47:24.62 [INFO] notify invalidation: cleared 1 and dirtied 89 nodes for: {".tmpvtKG0u.hardlink_canary", ""}
+14:47:24.62 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", ".tmpvtKG0u.hardlink_canary"}
+14:47:24.62 [INFO] notify invalidation: cleared 1 and dirtied 2 nodes for: {"app.py"}
+14:47:24.62 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py"}
+14:47:24.62 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py"}
+14:47:24.62 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py"}
+14:47:24.62 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "app.py"}
+14:47:24.62 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py", ""}

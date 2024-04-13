@@ -1,0 +1,15 @@
+23:16:39.47 [31m[ERROR][0m 1 Exception encountered:
+
+Engine traceback:
+  in `run` goal
+
+ResolveError: The address //:flas from CLI arguments does not exist.
+
+The target name ':flas' is not defined in the directory . Did you mean one of these target names?
+
+  * :app
+  * :flask
+  * :gunicorn
+  * :reqs0
+  * :root
+

@@ -1,0 +1,5 @@
+14:01:46.29 [WARN] File watcher exiting with: The watcher was shut down.
+14:01:50.95 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"pants.toml"}
+14:01:50.95 [INFO] notify invalidation: cleared 1 and dirtied 274 nodes for: {"pants.toml", ""}
+14:01:52.73 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"pants.toml"}
+14:01:52.73 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"pants.toml", ""}

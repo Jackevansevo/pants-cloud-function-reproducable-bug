@@ -1,0 +1,7 @@
+08:11:25.85 [31m[ERROR][0m 1 Exception encountered:
+
+Engine traceback:
+  in `run` goal
+
+InvalidFieldException: BUILD:10: Failed to get dependencies for //:flask: Invalid address `./app.py` from the `dependencies` field from the target //:flask. It has an un-normalized path part: `""`.
+

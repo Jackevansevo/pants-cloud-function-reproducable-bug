@@ -1,0 +1,105 @@
+12:31:51.92 [WARN] File watcher exiting with: The watcher was shut down.
+12:31:51.97 [33m[WARN][0m /home/jackevans/.cache/nce/60b513559c7b53eb2acecbd7b8aaaeb942686f3997d07fa77377b51324f58fda/bindings/venvs/2.21.0.dev6/lib/python3.9/site-packages/pkg_resources/_vendor/packaging/specifiers.py:255: DeprecationWarning: Creating a LegacyVersion has been deprecated and will be removed in the next major release
+  warnings.warn(
+
+12:31:52.00 [INFO] Reading /home/jackevans/code/pantstest/.python-version to determine desired version for [python-bootstrap].search_path.
+12:31:53.01 [31m[ERROR][0m 1 Exception encountered:
+
+Engine traceback:
+  in `package` goal
+
+ProcessExecutionFailure: Process 'Find interpreter for constraints: CPython==3.11*' failed with exit code 1.
+stdout:
+
+stderr:
+Traceback (most recent call last):
+  File "/home/jackevans/.cache/pants/named_caches/pex_root/installed_wheels/5e817183573522bc2a8fbfe1b61a17476e8b8602025a908fcbb8993a8de79c24/pex-2.3.0-py2.py3-none-any.whl/pex/vendor/_vendored/packaging_23_1/packaging/requirements.py", line 35, in __init__
+    parsed = _parse_requirement(requirement_string)
+  File "/home/jackevans/.cache/pants/named_caches/pex_root/installed_wheels/5e817183573522bc2a8fbfe1b61a17476e8b8602025a908fcbb8993a8de79c24/pex-2.3.0-py2.py3-none-any.whl/pex/vendor/_vendored/packaging_23_1/packaging/_parser.py", line 64, in parse_requirement
+    return _parse_requirement(Tokenizer(source, rules=DEFAULT_RULES))
+  File "/home/jackevans/.cache/pants/named_caches/pex_root/installed_wheels/5e817183573522bc2a8fbfe1b61a17476e8b8602025a908fcbb8993a8de79c24/pex-2.3.0-py2.py3-none-any.whl/pex/vendor/_vendored/packaging_23_1/packaging/_parser.py", line 82, in _parse_requirement
+    url, specifier, marker = _parse_requirement_details(tokenizer)
+  File "/home/jackevans/.cache/pants/named_caches/pex_root/installed_wheels/5e817183573522bc2a8fbfe1b61a17476e8b8602025a908fcbb8993a8de79c24/pex-2.3.0-py2.py3-none-any.whl/pex/vendor/_vendored/packaging_23_1/packaging/_parser.py", line 126, in _parse_requirement_details
+    marker = _parse_requirement_marker(
+  File "/home/jackevans/.cache/pants/named_caches/pex_root/installed_wheels/5e817183573522bc2a8fbfe1b61a17476e8b8602025a908fcbb8993a8de79c24/pex-2.3.0-py2.py3-none-any.whl/pex/vendor/_vendored/packaging_23_1/packaging/_parser.py", line 147, in _parse_requirement_marker
+    tokenizer.raise_syntax_error(
+  File "/home/jackevans/.cache/pants/named_caches/pex_root/installed_wheels/5e817183573522bc2a8fbfe1b61a17476e8b8602025a908fcbb8993a8de79c24/pex-2.3.0-py2.py3-none-any.whl/pex/vendor/_vendored/packaging_23_1/packaging/_tokenizer.py", line 165, in raise_syntax_error
+    raise ParserSyntaxError(
+pex.vendor._vendored.packaging_23_1.packaging._tokenizer.ParserSyntaxError: Expected end or semicolon (after version specifier)
+    CPython==3.11*
+           ~~~~~~^
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/jackevans/.cache/pants/named_caches/pex_root/installed_wheels/5e817183573522bc2a8fbfe1b61a17476e8b8602025a908fcbb8993a8de79c24/pex-2.3.0-py2.py3-none-any.whl/pex/dist_metadata.py", line 742, in parse
+    return cls.from_packaging_requirement(PackagingRequirement(requirement))
+  File "/home/jackevans/.cache/pants/named_caches/pex_root/installed_wheels/5e817183573522bc2a8fbfe1b61a17476e8b8602025a908fcbb8993a8de79c24/pex-2.3.0-py2.py3-none-any.whl/pex/vendor/_vendored/packaging_23_1/packaging/requirements.py", line 37, in __init__
+    raise InvalidRequirement(str(e)) from e
+pex.vendor._vendored.packaging_23_1.packaging.requirements.InvalidRequirement: Expected end or semicolon (after version specifier)
+    CPython==3.11*
+           ~~~~~~^
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jackevans/.cache/pants/named_caches/pex_root/installed_wheels/5e817183573522bc2a8fbfe1b61a17476e8b8602025a908fcbb8993a8de79c24/pex-2.3.0-py2.py3-none-any.whl/pex/interpreter_constraints.py", line 38, in parse
+    requirement = Requirement.parse(constraint)
+  File "/home/jackevans/.cache/pants/named_caches/pex_root/installed_wheels/5e817183573522bc2a8fbfe1b61a17476e8b8602025a908fcbb8993a8de79c24/pex-2.3.0-py2.py3-none-any.whl/pex/dist_metadata.py", line 744, in parse
+    raise RequirementParseError(str(e))
+pex.dist_metadata.RequirementParseError: Expected end or semicolon (after version specifier)
+    CPython==3.11*
+           ~~~~~~^
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jackevans/.cache/pants/named_caches/pex_root/installed_wheels/5e817183573522bc2a8fbfe1b61a17476e8b8602025a908fcbb8993a8de79c24/pex-2.3.0-py2.py3-none-any.whl/pex/resolve/target_options.py", line 184, in configure_interpreters
+    interpreter_constraints = InterpreterConstraints.parse(*options.interpreter_constraint)
+  File "/home/jackevans/.cache/pants/named_caches/pex_root/installed_wheels/5e817183573522bc2a8fbfe1b61a17476e8b8602025a908fcbb8993a8de79c24/pex-2.3.0-py2.py3-none-any.whl/pex/interpreter_constraints.py", line 107, in parse
+    constraints=tuple(
+  File "/home/jackevans/.cache/pants/named_caches/pex_root/installed_wheels/5e817183573522bc2a8fbfe1b61a17476e8b8602025a908fcbb8993a8de79c24/pex-2.3.0-py2.py3-none-any.whl/pex/interpreter_constraints.py", line 108, in <genexpr>
+    InterpreterConstraint.parse(constraint) for constraint in OrderedSet(constraints)
+  File "/home/jackevans/.cache/pants/named_caches/pex_root/installed_wheels/5e817183573522bc2a8fbfe1b61a17476e8b8602025a908fcbb8993a8de79c24/pex-2.3.0-py2.py3-none-any.whl/pex/interpreter_constraints.py", line 49, in parse
+    return cls(specifier=SpecifierSet(constraint))
+  File "/home/jackevans/.cache/pants/named_caches/pex_root/installed_wheels/5e817183573522bc2a8fbfe1b61a17476e8b8602025a908fcbb8993a8de79c24/pex-2.3.0-py2.py3-none-any.whl/pex/vendor/_vendored/packaging_23_1/packaging/specifiers.py", line 714, in __init__
+    parsed.add(Specifier(specifier))
+  File "/home/jackevans/.cache/pants/named_caches/pex_root/installed_wheels/5e817183573522bc2a8fbfe1b61a17476e8b8602025a908fcbb8993a8de79c24/pex-2.3.0-py2.py3-none-any.whl/pex/vendor/_vendored/packaging_23_1/packaging/specifiers.py", line 245, in __init__
+    raise InvalidSpecifier(f"Invalid specifier: '{spec}'")
+pex.vendor._vendored.packaging_23_1.packaging.specifiers.InvalidSpecifier: Invalid specifier: 'CPython==3.11*'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jackevans/.cache/nce/67912efc04f9156d8f5b48a0348983defb964de043b8c13ddc6cc8a002f8e691/cpython-3.9.18+20240107-x86_64-unknown-linux-gnu-install_only.tar.gz/python/lib/python3.9/runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/home/jackevans/.cache/nce/67912efc04f9156d8f5b48a0348983defb964de043b8c13ddc6cc8a002f8e691/cpython-3.9.18+20240107-x86_64-unknown-linux-gnu-install_only.tar.gz/python/lib/python3.9/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/home/jackevans/.cache/pants/named_caches/pex_root/unzipped_pexes/f55deb7b670e1efb0e8592849ba5e576e7ee0cc8/__main__.py", line 106, in <module>
+    bootstrap_pex(__entry_point__, execute=__execute__, venv_dir=__venv_dir__)
+  File "/home/jackevans/.cache/pants/named_caches/pex_root/unzipped_pexes/f55deb7b670e1efb0e8592849ba5e576e7ee0cc8/.bootstrap/pex/pex_bootstrapper.py", line 627, in bootstrap_pex
+    pex.PEX(entry_point).execute()
+  File "/home/jackevans/.cache/pants/named_caches/pex_root/unzipped_pexes/f55deb7b670e1efb0e8592849ba5e576e7ee0cc8/.bootstrap/pex/pex.py", line 562, in execute
+    sys.exit(self._wrap_coverage(self._wrap_profiling, self._execute))
+  File "/home/jackevans/.cache/pants/named_caches/pex_root/unzipped_pexes/f55deb7b670e1efb0e8592849ba5e576e7ee0cc8/.bootstrap/pex/pex.py", line 469, in _wrap_coverage
+    return runner(*args)
+  File "/home/jackevans/.cache/pants/named_caches/pex_root/unzipped_pexes/f55deb7b670e1efb0e8592849ba5e576e7ee0cc8/.bootstrap/pex/pex.py", line 500, in _wrap_profiling
+    return runner(*args)
+  File "/home/jackevans/.cache/pants/named_caches/pex_root/unzipped_pexes/f55deb7b670e1efb0e8592849ba5e576e7ee0cc8/.bootstrap/pex/pex.py", line 606, in _execute
+    return self.execute_entry(
+  File "/home/jackevans/.cache/pants/named_caches/pex_root/unzipped_pexes/f55deb7b670e1efb0e8592849ba5e576e7ee0cc8/.bootstrap/pex/pex.py", line 808, in execute_entry
+    return self.execute_entry_point(entry_point)
+  File "/home/jackevans/.cache/pants/named_caches/pex_root/unzipped_pexes/f55deb7b670e1efb0e8592849ba5e576e7ee0cc8/.bootstrap/pex/pex.py", line 826, in execute_entry_point
+    return runner()
+  File "/home/jackevans/.cache/pants/named_caches/pex_root/installed_wheels/5e817183573522bc2a8fbfe1b61a17476e8b8602025a908fcbb8993a8de79c24/pex-2.3.0-py2.py3-none-any.whl/pex/bin/pex.py", line 1009, in main
+    target_config = target_options.configure(options)
+  File "/home/jackevans/.cache/pants/named_caches/pex_root/installed_wheels/5e817183573522bc2a8fbfe1b61a17476e8b8602025a908fcbb8993a8de79c24/pex-2.3.0-py2.py3-none-any.whl/pex/resolve/target_options.py", line 248, in configure
+    interpreter_configuration = configure_interpreters(options)
+  File "/home/jackevans/.cache/pants/named_caches/pex_root/installed_wheels/5e817183573522bc2a8fbfe1b61a17476e8b8602025a908fcbb8993a8de79c24/pex-2.3.0-py2.py3-none-any.whl/pex/resolve/target_options.py", line 186, in configure_interpreters
+    raise ArgumentTypeError(str(e))
+argparse.ArgumentTypeError: Invalid specifier: 'CPython==3.11*'
+
+
+
+Use `--keep-sandboxes=on_failure` to preserve the process chroot for inspection.
+

@@ -1,0 +1,8 @@
+14:13:08.57 [WARN] File watcher exiting with: The watcher was shut down.
+14:13:08.67 [31m[ERROR][0m 1 Exception encountered:
+
+Engine traceback:
+  in `package` goal
+
+UnknownVersion: No known version of pex v2.3.0 for linux_x86_64 found in ('v2.2.1|macos_arm64|e38e7052282f1855606880333a8f8c8a09458fabc5b5e5fb6c48ce11a4564a34|4113219', 'v2.2.1|macos_x86_64|e38e7052282f1855606880333a8f8c8a09458fabc5b5e5fb6c48ce11a4564a34|4113219', 'v2.2.1|linux_x86_64|e38e7052282f1855606880333a8f8c8a09458fabc5b5e5fb6c48ce11a4564a34|4113219', 'v2.2.1|linux_arm64|e38e7052282f1855606880333a8f8c8a09458fabc5b5e5fb6c48ce11a4564a34|4113219')
+

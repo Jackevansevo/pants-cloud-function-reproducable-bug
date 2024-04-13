@@ -1,0 +1,6 @@
+18:34:11.13 [WARN] File watcher exiting with: The watcher was shut down.
+18:34:11.21 [INFO] Reading /home/jackevans/code/pantstest/.python-version to determine desired version for [python-bootstrap].search_path.
+18:34:14.15 [INFO] Completed: Building 5 requirements for functions/gcf.pex from the 3rdparty/python/default.lock resolve: flask-sqlalchemy, functions-framework, psycopg[binary], setuptools, sqlalchemy
+18:34:14.15 [INFO] notify invalidation: cleared 1 and dirtied 303 nodes for: {".tmpafK4pM.hardlink_canary", ""}
+18:34:14.15 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".tmpafK4pM.hardlink_canary", ""}
+18:34:14.19 [INFO] Wrote dist/functions/gcf.pex

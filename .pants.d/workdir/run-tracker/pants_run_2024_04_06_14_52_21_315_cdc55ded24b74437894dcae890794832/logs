@@ -1,0 +1,42 @@
+14:52:25.31 [WARN] File watcher exiting with: The watcher was shut down.
+14:52:42.22 [INFO] notify invalidation: cleared 1 and dirtied 265 nodes for: {"", "4913"}
+14:52:42.22 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "4913"}
+14:52:42.22 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"4913", ""}
+14:52:42.22 [INFO] notify invalidation: cleared 1 and dirtied 29 nodes for: {"app.py", ""}
+14:52:42.22 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "app.py~"}
+14:52:42.22 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "app.py", "app.py~"}
+14:52:42.22 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py", ""}
+14:52:42.23 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "app.py"}
+14:52:42.23 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py"}
+14:52:42.23 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "app.py"}
+14:52:42.23 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "app.py~"}
+14:53:06.43 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "4913"}
+14:53:06.43 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"4913", ""}
+14:53:06.43 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"4913", ""}
+14:53:06.43 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "app.py"}
+14:53:06.43 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "app.py~"}
+14:53:06.43 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py~", "app.py", ""}
+14:53:06.46 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "app.py"}
+14:53:06.46 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py"}
+14:53:06.46 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py", ""}
+14:53:06.46 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "app.py~"}
+14:53:08.07 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "4913"}
+14:53:08.07 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "4913"}
+14:53:08.07 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "4913"}
+14:53:08.07 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py", ""}
+14:53:08.07 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "app.py~"}
+14:53:08.07 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "app.py", "app.py~"}
+14:53:08.08 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py", ""}
+14:53:08.08 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py"}
+14:53:08.08 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "app.py"}
+14:53:08.08 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py~", ""}
+14:53:18.97 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "4913"}
+14:53:18.97 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"4913", ""}
+14:53:18.97 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "4913"}
+14:53:18.97 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py", ""}
+14:53:18.97 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py~", ""}
+14:53:18.97 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py", "", "app.py~"}
+14:53:18.97 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "app.py"}
+14:53:18.97 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py"}
+14:53:18.97 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "app.py"}
+14:53:18.97 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py~", ""}

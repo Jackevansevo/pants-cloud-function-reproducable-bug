@@ -1,0 +1,5 @@
+18:38:18.81 [WARN] File watcher exiting with: The watcher was shut down.
+18:38:18.90 [INFO] Reading /home/jackevans/code/pantstest/.python-version to determine desired version for [python-bootstrap].search_path.
+18:38:20.38 [INFO] notify invalidation: cleared 1 and dirtied 303 nodes for: {".tmpqpI9eC.hardlink_canary", ""}
+18:38:20.38 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", ".tmpqpI9eC.hardlink_canary"}
+18:38:20.41 [INFO] Wrote dist/functions/gcf.pex

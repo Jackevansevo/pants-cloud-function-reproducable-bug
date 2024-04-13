@@ -1,0 +1,31 @@
+08:42:28.82 [WARN] File watcher exiting with: The watcher was shut down.
+08:42:32.68 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".pyproject.toml.swp"}
+08:42:33.26 [INFO] notify invalidation: cleared 1 and dirtied 63 nodes for: {"", "4913"}
+08:42:33.26 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"4913", ""}
+08:42:33.26 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "4913"}
+08:42:33.26 [INFO] notify invalidation: cleared 1 and dirtied 21 nodes for: {"pyproject.toml", ""}
+08:42:33.27 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"pyproject.toml~", ""}
+08:42:33.27 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"pyproject.toml", "pyproject.toml~", ""}
+08:42:33.27 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "pyproject.toml"}
+08:42:33.27 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".pyproject.toml.swp"}
+08:42:33.27 [INFO] notify invalidation: cleared 2 and dirtied 63 nodes for: {"pyproject.toml", ""}
+08:42:33.27 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"pyproject.toml"}
+08:42:33.27 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"pyproject.toml"}
+08:42:33.27 [INFO] notify invalidation: cleared 1 and dirtied 56 nodes for: {"", "pyproject.toml"}
+08:42:33.27 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".pyproject.toml.swp"}
+08:42:33.27 [INFO] notify invalidation: cleared 1 and dirtied 60 nodes for: {"pyproject.toml~", ""}
+08:42:33.27 [INFO] Filesystem changed during run: retrying `Scandir()` in 500ms...
+08:42:33.27 [INFO] Filesystem changed during run: retrying `Scandir()` in 500ms...
+08:42:33.27 [INFO] Filesystem changed during run: retrying `Scandir()` in 500ms...
+08:42:33.27 [INFO] Filesystem changed during run: retrying `Scandir()` in 500ms...
+08:42:38.21 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".pyproject.toml.swp"}
+08:42:41.20 [INFO] Completed: Generate lockfile for python-default
+08:42:41.21 [INFO] notify invalidation: cleared 1 and dirtied 64 nodes for: {".tmplwLy2V.hardlink_canary", ""}
+08:42:41.21 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".tmplwLy2V.hardlink_canary", ""}
+08:42:41.22 [INFO] notify invalidation: cleared 1 and dirtied 3 nodes for: {"3rdparty/python/default.lock"}
+08:42:41.22 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"3rdparty/python/default.lock"}
+08:42:41.22 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"3rdparty/python/default.lock"}
+08:42:41.22 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"3rdparty/python/default.lock"}
+08:42:41.22 [INFO] notify invalidation: cleared 1 and dirtied 33 nodes for: {"3rdparty/python", "3rdparty/python/default.lock"}
+08:42:41.22 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"3rdparty/python/default.lock", "3rdparty/python"}
+08:42:41.22 [INFO] Wrote lockfile for the resolve `python-default` to 3rdparty/python/default.lock

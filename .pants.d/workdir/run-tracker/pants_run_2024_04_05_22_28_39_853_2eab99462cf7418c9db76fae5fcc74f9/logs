@@ -1,0 +1,5 @@
+22:28:40.88 [INFO] Completed: Building docker image app:latest
+22:28:43.26 [INFO] Completed: Building dockerfile_parser.pex from resource://pants.backend.docker.subsystems/dockerfile.lock
+22:28:43.31 [INFO] Wrote dist/app.docker-info.json
+Built docker image: app:latest
+Docker image ID: sha256:affda372ced5cd2bf39e265a4b1e7322ad335bf684d2128c1b5223fd2261f0b6

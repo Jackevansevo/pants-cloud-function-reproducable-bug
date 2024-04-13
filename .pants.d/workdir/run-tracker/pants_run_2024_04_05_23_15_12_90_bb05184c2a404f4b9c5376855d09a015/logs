@@ -1,0 +1,15 @@
+23:15:12.12 [31m[ERROR][0m 1 Exception encountered:
+
+Engine traceback:
+  in `run` goal
+
+ResolveError: The address //:docker from CLI arguments does not exist.
+
+The target name ':docker' is not defined in the directory . Did you mean one of these target names?
+
+  * :app
+  * :flask
+  * :gunicorn
+  * :reqs0
+  * :root
+

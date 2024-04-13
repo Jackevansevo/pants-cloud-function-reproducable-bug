@@ -1,0 +1,17 @@
+08:53:00.45 [WARN] File watcher exiting with: The watcher was shut down.
+08:53:01.07 [INFO] notify invalidation: cleared 1 and dirtied 83 nodes for: {"", ".BUILD.swp"}
+08:53:01.07 [INFO] notify invalidation: cleared 1 and dirtied 83 nodes for: {".BUILD.swp", ""}
+08:53:01.07 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".app.py.swp", ""}
+08:53:01.07 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", ".app.py.swx"}
+08:53:01.07 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", ".app.py.swx"}
+08:53:01.07 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".app.py.swx", ""}
+08:53:01.07 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", ".app.py.swp"}
+08:53:01.07 [INFO] notify invalidation: cleared 1 and dirtied 82 nodes for: {".app.py.swp", ""}
+08:53:01.07 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", ".app.py.swp"}
+08:53:01.07 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".app.py.swp"}
+08:53:02.77 [INFO] Completed: Building docker image app:latest
+08:53:02.77 [INFO] notify invalidation: cleared 1 and dirtied 226 nodes for: {"", ".tmpJy4tid.hardlink_canary"}
+08:53:02.77 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".tmpJy4tid.hardlink_canary", ""}
+08:53:02.77 [INFO] Wrote dist/app.docker-info.json
+Built docker image: app:latest
+Docker image ID: sha256:8c2a495d0c3952f0d2b06af5c2bc36742fdf9de3ec1d60dcf1095d540a00dc6a

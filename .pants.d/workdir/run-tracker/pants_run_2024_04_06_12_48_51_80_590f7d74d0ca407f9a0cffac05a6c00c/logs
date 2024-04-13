@@ -1,0 +1,13 @@
+12:48:55.38 [WARN] File watcher exiting with: The watcher was shut down.
+12:49:00.05 [INFO] Completed: Building 7 requirements for flask.pex from the 3rdparty/python/default.lock resolve: flask, flask-migrate, flask-shell-ipython, flask-sqlalchemy, psycopg[binary], python-dotenv, sqlalchemy
+12:49:11.74 [INFO] notify invalidation: cleared 1 and dirtied 249 nodes for: {"4913", ""}
+12:49:11.74 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "4913"}
+12:49:11.74 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"4913", ""}
+12:49:11.74 [INFO] notify invalidation: cleared 1 and dirtied 29 nodes for: {"", "app.py"}
+12:49:11.74 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "app.py~"}
+12:49:11.74 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py", "", "app.py~"}
+12:49:11.74 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "app.py"}
+12:49:11.74 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "app.py"}
+12:49:11.74 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py"}
+12:49:11.74 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "app.py"}
+12:49:11.74 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py~", ""}

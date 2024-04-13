@@ -1,0 +1,9 @@
+13:37:07.09 [WARN] File watcher exiting with: The watcher was shut down.
+13:37:07.12 [31m[ERROR][0m 1 Exception encountered:
+
+Engine traceback:
+  in `dependencies` goal
+  in Find targets from input specs
+
+InvalidTargetException: services/BUILD:3: Unrecognized field `arguments=[]` in target services:flask. Valid fields for the target type `pex_binary`: ['args', 'check', 'complete_platforms', 'dependencies', 'description', 'emit_warnings', 'entry_point', 'env', 'environment', 'executable', 'execution_mode', 'ignore_errors', 'include_requirements', 'include_sources', 'include_tools', 'inherit_path', 'interpreter_constraints', 'layout', 'output_path', 'platforms', 'resolve', 'resolve_local_platforms', 'restartable', 'script', 'sh_boot', 'shebang', 'strip_pex_env', 'tags', 'venv_hermetic_scripts', 'venv_site_packages_copies'].
+

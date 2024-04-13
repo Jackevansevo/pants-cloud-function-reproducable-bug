@@ -1,0 +1,5 @@
+22:46:05.39 [INFO] Extending leases
+22:46:05.40 [INFO] Done extending leases
+22:46:06.21 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".BUILD.swp"}
+22:46:06.68 [INFO] Completed: Building 2 requirements for gunicorn.pex from the 3rdparty/python/default.lock resolve: flask, gunicorn
+22:46:06.68 [INFO] Wrote dist/gunicorn.pex

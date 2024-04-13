@@ -1,0 +1,7 @@
+08:11:20.96 [31m[ERROR][0m 1 Exception encountered:
+
+Engine traceback:
+  in `run` goal
+
+InvalidFieldException: BUILD:10: Failed to get dependencies for //:flask: Addresses for generated first-party targets in the build root must include which target generator they come from, such as `app.py:original_target`. However, `app.py` from the `dependencies` field from the target //:flask did not have a target name.
+

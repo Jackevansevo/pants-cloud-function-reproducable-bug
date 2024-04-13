@@ -1,0 +1,8 @@
+12:29:55.12 [WARN] File watcher exiting with: The watcher was shut down.
+12:29:55.17 [31m[ERROR][0m 1 Exception encountered:
+
+Engine traceback:
+  in `package` goal
+
+InvalidTargetException: functions/BUILD:3: Values for the 'runtime' field in target functions:cloud_function must be one of ['python310', 'python311', 'python37', 'python38', 'python39'], but 'python312' was provided.
+

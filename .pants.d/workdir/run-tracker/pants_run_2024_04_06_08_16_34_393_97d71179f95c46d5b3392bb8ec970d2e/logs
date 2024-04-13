@@ -1,0 +1,2 @@
+08:16:49.67 [WARN] File watcher exiting with: The watcher was shut down.
+08:16:58.46 [INFO] notify invalidation: cleared 1 and dirtied 42 nodes for: {"instance", "instance/app.db"}

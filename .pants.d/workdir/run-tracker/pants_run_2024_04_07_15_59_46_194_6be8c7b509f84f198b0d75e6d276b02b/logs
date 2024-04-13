@@ -1,0 +1,9 @@
+15:59:49.77 [WARN] File watcher exiting with: The watcher was shut down.
+15:59:49.82 [INFO] notify invalidation: cleared 1 and dirtied 122 nodes for: {"", ".tmpYg7IkO.hardlink_canary"}
+15:59:49.82 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".tmpYg7IkO.hardlink_canary", ""}
+15:59:49.82 [INFO] notify invalidation: cleared 1 and dirtied 24 nodes for: {"models", "models/BUILD"}
+15:59:49.82 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"models/BUILD"}
+15:59:49.82 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"models/BUILD", "models"}
+15:59:49.82 [INFO] notify invalidation: cleared 1 and dirtied 24 nodes for: {"migrations/versions/BUILD", "migrations/versions"}
+15:59:49.82 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"migrations/versions/BUILD"}
+15:59:49.82 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"migrations/versions", "migrations/versions/BUILD"}

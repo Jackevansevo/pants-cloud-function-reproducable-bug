@@ -1,0 +1,12 @@
+16:30:24.28 [WARN] File watcher exiting with: The watcher was shut down.
+16:30:24.33 [INFO] Reading /home/jackevans/code/pantstest/.python-version to determine desired version for [python-bootstrap].search_path.
+16:30:45.42 [INFO] Completed: Generate lockfile for python-default
+16:30:45.44 [INFO] notify invalidation: cleared 1 and dirtied 125 nodes for: {".tmpOrhiSt.hardlink_canary", ""}
+16:30:45.44 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", ".tmpOrhiSt.hardlink_canary"}
+16:30:45.44 [INFO] notify invalidation: cleared 1 and dirtied 3 nodes for: {"3rdparty/python/default.lock"}
+16:30:45.44 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"3rdparty/python/default.lock"}
+16:30:45.44 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"3rdparty/python/default.lock"}
+16:30:45.44 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"3rdparty/python/default.lock"}
+16:30:45.44 [INFO] notify invalidation: cleared 1 and dirtied 37 nodes for: {"3rdparty/python/default.lock", "3rdparty/python"}
+16:30:45.44 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"3rdparty/python/default.lock", "3rdparty/python"}
+16:30:45.44 [INFO] Wrote lockfile for the resolve `python-default` to 3rdparty/python/default.lock

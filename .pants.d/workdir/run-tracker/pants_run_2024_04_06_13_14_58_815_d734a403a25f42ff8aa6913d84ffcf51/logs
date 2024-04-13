@@ -1,0 +1,101 @@
+13:15:02.26 [WARN] File watcher exiting with: The watcher was shut down.
+13:15:06.52 [INFO] Completed: Building 8 requirements for flask.pex from the 3rdparty/python/default.lock resolve: flask, flask-migrate, flask-shell-ipython, flask-sqlalchemy, pdbpp, psycopg[binary], python-dotenv, sqlalchemy
+13:15:28.63 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".app.py.swp"}
+13:15:28.95 [INFO] notify invalidation: cleared 1 and dirtied 262 nodes for: {"4913", ""}
+13:15:28.95 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"4913", ""}
+13:15:28.95 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"4913", ""}
+13:15:28.95 [INFO] notify invalidation: cleared 1 and dirtied 29 nodes for: {"app.py", ""}
+13:15:28.95 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py~", ""}
+13:15:28.95 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py~", "", "app.py"}
+13:15:28.95 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "app.py"}
+13:15:28.95 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".app.py.swp"}
+13:15:28.95 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".app.py.swp"}
+13:15:28.95 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "app.py"}
+13:15:28.95 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py"}
+13:15:28.95 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py"}
+13:15:28.96 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py", ""}
+13:15:28.96 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".app.py.swp"}
+13:15:28.96 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py~", ""}
+13:15:33.11 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".app.py.swp"}
+13:15:46.23 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".app.py.swp"}
+13:15:46.49 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "4913"}
+13:15:46.49 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"4913", ""}
+13:15:46.49 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "4913"}
+13:15:46.49 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "app.py"}
+13:15:46.49 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "app.py~"}
+13:15:46.49 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py", "", "app.py~"}
+13:15:46.49 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".app.py.swp"}
+13:15:46.49 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".app.py.swp"}
+13:15:46.49 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "app.py"}
+13:15:46.49 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py"}
+13:15:46.49 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py"}
+13:15:46.49 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "app.py"}
+13:15:46.49 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".app.py.swp"}
+13:15:46.49 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "app.py~"}
+13:15:54.34 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", ".app.py.swp"}
+13:15:54.34 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".app.py.swp", ""}
+13:15:54.34 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".deploy.sh.swp", ""}
+13:15:54.34 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".deploy.sh.swx", ""}
+13:15:54.34 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".deploy.sh.swx", ""}
+13:15:54.34 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".deploy.sh.swx", ""}
+13:15:54.34 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".deploy.sh.swp", ""}
+13:15:54.34 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".deploy.sh.swp", ""}
+13:15:54.34 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", ".deploy.sh.swp"}
+13:15:54.34 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".deploy.sh.swp"}
+13:15:55.04 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".deploy.sh.swp"}
+13:15:55.59 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".deploy.sh.swp"}
+13:15:57.26 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".deploy.sh.swp"}
+13:16:09.82 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "4913"}
+13:16:09.82 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"4913", ""}
+13:16:09.82 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "4913"}
+13:16:09.82 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"deploy.sh", ""}
+13:16:09.82 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"deploy.sh~", ""}
+13:16:09.82 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"deploy.sh~", "", "deploy.sh"}
+13:16:09.82 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".deploy.sh.swp"}
+13:16:09.82 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "deploy.sh"}
+13:16:09.82 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"deploy.sh"}
+13:16:09.82 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "deploy.sh"}
+13:16:09.82 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".deploy.sh.swp"}
+13:16:09.82 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "deploy.sh~"}
+13:16:10.03 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".deploy.sh.swp"}
+13:16:10.45 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "4913"}
+13:16:10.45 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"4913", ""}
+13:16:10.45 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "4913"}
+13:16:10.45 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "deploy.sh"}
+13:16:10.45 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "deploy.sh~"}
+13:16:10.45 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"deploy.sh", "", "deploy.sh~"}
+13:16:10.45 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".deploy.sh.swp"}
+13:16:10.45 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"deploy.sh", ""}
+13:16:10.45 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"deploy.sh"}
+13:16:10.45 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"deploy.sh"}
+13:16:10.45 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"deploy.sh", ""}
+13:16:10.45 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".deploy.sh.swp"}
+13:16:10.45 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"deploy.sh~", ""}
+13:16:11.61 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "4913"}
+13:16:11.61 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "4913"}
+13:16:11.61 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "4913"}
+13:16:11.61 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "deploy.sh"}
+13:16:11.61 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"deploy.sh~", ""}
+13:16:11.61 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"deploy.sh~", "", "deploy.sh"}
+13:16:11.61 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".deploy.sh.swp"}
+13:16:11.62 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"deploy.sh", ""}
+13:16:11.62 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"deploy.sh"}
+13:16:11.62 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"deploy.sh"}
+13:16:11.62 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"deploy.sh", ""}
+13:16:11.62 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "deploy.sh~"}
+13:16:11.91 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".deploy.sh.swp"}
+13:16:12.19 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "4913"}
+13:16:12.19 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "4913"}
+13:16:12.19 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"4913", ""}
+13:16:12.19 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"deploy.sh", ""}
+13:16:12.19 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"deploy.sh~", ""}
+13:16:12.19 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"deploy.sh~", "deploy.sh", ""}
+13:16:12.19 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".deploy.sh.swp"}
+13:16:12.19 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".deploy.sh.swp"}
+13:16:12.19 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "deploy.sh"}
+13:16:12.19 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"deploy.sh"}
+13:16:12.19 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"deploy.sh"}
+13:16:12.19 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "deploy.sh"}
+13:16:12.19 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".deploy.sh.swp"}
+13:16:12.19 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "deploy.sh~"}
+13:16:13.05 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".deploy.sh.swp"}

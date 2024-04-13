@@ -1,0 +1,12 @@
+16:15:19.96 [WARN] File watcher exiting with: The watcher was shut down.
+16:15:19.99 [31m[ERROR][0m 1 Exception encountered:
+
+Engine traceback:
+  in `package` goal
+
+ResolveError: The address //:app from CLI arguments does not exist.
+
+The target name ':app' is not defined in the directory . Did you mean one of these target names?
+
+  * :reqs0
+

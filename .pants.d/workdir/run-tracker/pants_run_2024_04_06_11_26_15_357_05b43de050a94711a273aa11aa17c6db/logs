@@ -1,0 +1,14 @@
+11:26:19.39 [WARN] File watcher exiting with: The watcher was shut down.
+11:26:20.90 [33m[WARN][0m Completed: Fix with `ruff check --fix` - ruff check --fix made changes.
+  app.py
+11:26:20.94 [INFO] Completed: Format with `ruff format` - ruff format made no changes.
+11:26:20.94 [INFO] notify invalidation: cleared 1 and dirtied 72 nodes for: {"", ".tmpkDZJ2k.hardlink_canary"}
+11:26:20.94 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".tmpkDZJ2k.hardlink_canary", ""}
+11:26:20.94 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py"}
+11:26:20.94 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py"}
+11:26:20.94 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py"}
+11:26:20.94 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py"}
+11:26:20.94 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"app.py", ""}
+11:26:20.94 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "app.py"}
+11:26:20.95 [INFO] Completed: Format with `ruff format` - ruff format made no changes.
+11:26:20.99 [INFO] Completed: Lint with `ruff check` - ruff check succeeded.

@@ -1,0 +1,6 @@
+18:46:46.15 [WARN] File watcher exiting with: The watcher was shut down.
+18:46:46.18 [INFO] Reading /home/jackevans/code/pantstest/.python-version to determine desired version for [python-bootstrap].search_path.
+18:46:49.42 [INFO] Completed: Build pex for resolve `python-default`
+18:46:50.73 [INFO] Completed: Get interpreter version
+18:46:50.73 [INFO] notify invalidation: cleared 1 and dirtied 7 nodes for: {"", ".tmp0S48aK.hardlink_canary"}
+18:46:50.73 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".tmp0S48aK.hardlink_canary", ""}

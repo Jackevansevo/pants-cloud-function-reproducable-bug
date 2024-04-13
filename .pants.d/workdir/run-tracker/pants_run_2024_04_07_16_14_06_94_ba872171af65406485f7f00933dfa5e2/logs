@@ -1,0 +1,3 @@
+16:14:09.68 [WARN] File watcher exiting with: The watcher was shut down.
+16:14:09.76 [INFO] Reading /home/jackevans/code/pantstest/.python-version to determine desired version for [python-bootstrap].search_path.
+16:14:14.50 [INFO] Completed: Building 6 requirements for services/gunicorn.pex from the 3rdparty/python/default.lock resolve: flask, flask-migrate, flask-sqlalchemy, gunicorn, psycopg[binary], sqlalchemy

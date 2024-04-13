@@ -1,0 +1,15 @@
+13:32:07.27 [WARN] File watcher exiting with: The watcher was shut down.
+13:32:07.31 [31m[ERROR][0m 1 Exception encountered:
+
+Engine traceback:
+  in `package` goal
+
+ResolveError: The address services:root from the `dependencies` field of the target services:flask does not exist.
+
+The target name ':root' is not defined in the directory services. Did you mean one of these target names?
+
+  * :app
+  * :flask
+  * :gunicorn
+  * :services
+

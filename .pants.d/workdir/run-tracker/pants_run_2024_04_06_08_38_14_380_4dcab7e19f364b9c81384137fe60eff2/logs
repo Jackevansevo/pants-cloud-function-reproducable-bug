@@ -1,0 +1,11 @@
+08:38:18.48 [WARN] File watcher exiting with: The watcher was shut down.
+08:38:35.58 [INFO] Completed: Generate lockfile for python-default
+08:38:35.59 [INFO] notify invalidation: cleared 1 and dirtied 63 nodes for: {".tmpARtopr.hardlink_canary", ""}
+08:38:35.59 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".tmpARtopr.hardlink_canary", ""}
+08:38:35.59 [INFO] notify invalidation: cleared 1 and dirtied 3 nodes for: {"3rdparty/python/default.lock"}
+08:38:35.59 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"3rdparty/python/default.lock"}
+08:38:35.59 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"3rdparty/python/default.lock"}
+08:38:35.59 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"3rdparty/python/default.lock"}
+08:38:35.59 [INFO] notify invalidation: cleared 1 and dirtied 32 nodes for: {"3rdparty/python", "3rdparty/python/default.lock"}
+08:38:35.59 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"3rdparty/python", "3rdparty/python/default.lock"}
+08:38:35.59 [INFO] Wrote lockfile for the resolve `python-default` to 3rdparty/python/default.lock

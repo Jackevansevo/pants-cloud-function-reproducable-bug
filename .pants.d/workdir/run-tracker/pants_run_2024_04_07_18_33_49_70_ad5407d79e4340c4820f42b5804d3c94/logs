@@ -1,0 +1,8 @@
+18:33:53.09 [WARN] File watcher exiting with: The watcher was shut down.
+18:33:53.12 [31m[ERROR][0m 1 Exception encountered:
+
+Engine traceback:
+  in `package` goal
+
+InvalidTargetException: functions/BUILD:14: Values for the 'layout' field in target functions:gcf must be one of ['loose', 'packed', 'zipapp'], but 'loose,' was provided.
+

@@ -1,0 +1,2 @@
+14:54:56.67 [WARN] File watcher exiting with: The watcher was shut down.
+14:55:01.40 [INFO] Completed: Building 6 requirements for gunicorn.pex from the 3rdparty/python/default.lock resolve: flask, flask-migrate, flask-sqlalchemy, gunicorn, psycopg[binary], sqlalchemy

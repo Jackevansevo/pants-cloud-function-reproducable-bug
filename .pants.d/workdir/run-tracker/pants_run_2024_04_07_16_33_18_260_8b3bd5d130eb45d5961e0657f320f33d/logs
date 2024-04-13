@@ -1,0 +1,15 @@
+16:33:22.41 [WARN] File watcher exiting with: The watcher was shut down.
+16:33:22.48 [INFO] Reading /home/jackevans/code/pantstest/.python-version to determine desired version for [python-bootstrap].search_path.
+16:33:27.47 [INFO] Completed: Building 6 requirements for functions/function.pex from the 3rdparty/python/default.lock resolve: functions-framework, pdbpp, psycopg[binary], python-dotenv, setuptools, sqlalchemy
+16:33:53.23 [INFO] notify invalidation: cleared 1 and dirtied 29 nodes for: {"functions/main.py"}
+16:33:53.23 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:33:53.23 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:33:53.23 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:33:53.23 [INFO] notify invalidation: cleared 1 and dirtied 82 nodes for: {"functions/main.py", "functions"}
+16:33:53.23 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py", "functions"}
+16:33:56.58 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:33:56.58 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:33:56.58 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:33:56.58 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:33:56.58 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py", "functions"}
+16:33:56.58 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions", "functions/main.py"}

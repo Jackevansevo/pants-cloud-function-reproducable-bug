@@ -1,0 +1,7 @@
+12:41:26.45 [WARN] File watcher exiting with: The watcher was shut down.
+12:41:31.93 [INFO] Completed: Building docker image app:latest
+12:41:31.94 [INFO] notify invalidation: cleared 1 and dirtied 251 nodes for: {".tmpRIUqAB.hardlink_canary", ""}
+12:41:31.94 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", ".tmpRIUqAB.hardlink_canary"}
+12:41:31.94 [INFO] Wrote dist/app.docker-info.json
+Built docker image: app:latest
+Docker image ID: sha256:1863c3268e5eb45951141f36f705251e63feb4cc05d687f619497391e58ca2e3

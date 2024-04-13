@@ -1,0 +1,6 @@
+15:24:20.89 [WARN] File watcher exiting with: The watcher was shut down.
+15:24:20.94 [INFO] notify invalidation: cleared 1 and dirtied 118 nodes for: {"", ".tmpBCwsSc.hardlink_canary"}
+15:24:20.94 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", ".tmpBCwsSc.hardlink_canary"}
+15:24:20.94 [INFO] notify invalidation: cleared 1 and dirtied 24 nodes for: {"functions/BUILD", "functions"}
+15:24:20.94 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/BUILD"}
+15:24:20.94 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/BUILD", "functions"}

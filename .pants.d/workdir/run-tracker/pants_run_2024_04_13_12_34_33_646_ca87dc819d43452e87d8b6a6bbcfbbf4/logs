@@ -1,0 +1,24 @@
+12:34:38.29 [WARN] File watcher exiting with: The watcher was shut down.
+12:34:38.38 [INFO] Reading /home/jackevans/code/pantstest/.python-version to determine desired version for [python-bootstrap].search_path.
+12:34:39.89 [INFO] Completed: Building 5 requirements for faas_repository.pex from the 3rdparty/python/default.lock resolve: flask-sqlalchemy, functions-framework, psycopg[binary], setuptools, sqlalchemy
+12:34:40.91 [INFO] Completed: Build python_google_cloud_function artifact for functions:cloud_function
+12:34:40.91 [31m[ERROR][0m 1 Exception encountered:
+
+Engine traceback:
+  in `package` goal
+
+ProcessExecutionFailure: Process 'Build python_google_cloud_function artifact for functions:cloud_function' failed with exit code 1.
+stdout:
+
+stderr:
+Failed to resolve requirements from PEX environment @ /tmp/pants-sandbox-qeDq7X/faas_repository.pex.
+Needed cp311-cp311-linux_x86_64 compatible dependencies for:
+ 1: greenlet!=0.4.17; platform_machine == "aarch64" or (platform_machine == "ppc64le" or (platform_machine == "x86_64" or (platform_machine == "amd64" or (platform_machine == "AMD64" or (platform_machine == "win32" or platform_machine == "WIN32")))))
+    Required by:
+      SQLAlchemy 2.0.29
+    But this pex had no ProjectName(raw='greenlet', validated=False, normalized='greenlet') distributions.
+
+
+
+Use `--keep-sandboxes=on_failure` to preserve the process chroot for inspection.
+

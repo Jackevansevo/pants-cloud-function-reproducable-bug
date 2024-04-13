@@ -1,0 +1,4 @@
+08:50:50.08 [WARN] File watcher exiting with: The watcher was shut down.
+08:50:52.60 [INFO] notify invalidation: cleared 1 and dirtied 47 nodes for: {"migrations/versions", "migrations/versions/1d963d62177d_initial_migration.py"}
+08:50:52.60 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"migrations/versions/1d963d62177d_initial_migration.py"}
+08:50:52.60 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"migrations/versions", "migrations/versions/1d963d62177d_initial_migration.py"}

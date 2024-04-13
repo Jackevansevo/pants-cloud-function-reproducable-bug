@@ -1,0 +1,10 @@
+18:53:38.91 [WARN] File watcher exiting with: The watcher was shut down.
+18:53:39.02 [INFO] Reading /home/jackevans/code/pantstest/.python-version to determine desired version for [python-bootstrap].search_path.
+18:53:41.64 [INFO] Completed: Building dockerfile_parser.pex from resource://pants.backend.docker.subsystems/dockerfile.lock
+18:53:45.25 [INFO] Completed: Building 6 requirements for services/gunicorn.pex from the 3rdparty/python/default.lock resolve: flask, flask-migrate, flask-sqlalchemy, gunicorn, psycopg[binary], sqlalchemy
+18:53:45.69 [INFO] Completed: Building docker image app:latest
+18:53:45.69 [INFO] notify invalidation: cleared 1 and dirtied 360 nodes for: {"", ".tmpGTy0UJ.hardlink_canary"}
+18:53:45.69 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", ".tmpGTy0UJ.hardlink_canary"}
+18:53:45.69 [INFO] Wrote dist/services/app.docker-info.json
+Built docker image: app:latest
+Docker image ID: sha256:739856b283cb0f8ccd8c9319d2e3f1a90ece49be41f68a1903247ea568701734

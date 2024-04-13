@@ -1,0 +1,6 @@
+18:08:02.85 [WARN] File watcher exiting with: The watcher was shut down.
+18:08:02.93 [INFO] Reading /home/jackevans/code/pantstest/.python-version to determine desired version for [python-bootstrap].search_path.
+18:08:08.20 [INFO] Completed: Building 7 requirements for functions/function.pex from the 3rdparty/python/default.lock resolve: flask-sqlalchemy, functions-framework, pdbpp, psycopg[binary], python-dotenv, setuptools, sqlalchemy
+18:08:08.21 [INFO] notify invalidation: cleared 1 and dirtied 328 nodes for: {"", ".tmp4REODu.hardlink_canary"}
+18:08:08.21 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", ".tmp4REODu.hardlink_canary"}
+18:08:08.21 [INFO] Wrote dist/functions/function.pex

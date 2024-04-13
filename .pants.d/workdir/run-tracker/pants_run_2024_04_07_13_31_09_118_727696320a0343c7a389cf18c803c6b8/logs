@@ -1,0 +1,4 @@
+13:31:12.38 [WARN] File watcher exiting with: The watcher was shut down.
+13:31:12.41 [33m[WARN][0m Unmatched globs from //:root's `sources` field: ["*.py", "*.pyi"], excludes: ["*_test.py", "*_test.pyi", "conftest.py", "test_*.py", "test_*.pyi", "tests.py", "tests.pyi"]
+
+Do the file(s) exist? If so, check if the file(s) are in your `.gitignore` or the global `pants_ignore` option, which may result in Pants not being able to see the file(s) even though they exist on disk. Refer to https://www.pantsbuild.org/troubleshooting#pants-cannot-find-a-file-in-your-project.

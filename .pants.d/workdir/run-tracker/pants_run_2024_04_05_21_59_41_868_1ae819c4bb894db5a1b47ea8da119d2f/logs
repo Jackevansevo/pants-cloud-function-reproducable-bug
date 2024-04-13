@@ -1,0 +1,4 @@
+21:59:42.93 [INFO] Completed: Building docker image app:latest
+21:59:42.93 [INFO] Wrote dist/app.docker-info.json
+Built docker image: app:latest
+Docker image ID: sha256:927ccb6d59da82b714fd18d8bc2b6f0218d3a1e3313c5c42c262df4f22d42fa8

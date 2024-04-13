@@ -1,0 +1,10 @@
+13:09:41.89 [WARN] File watcher exiting with: The watcher was shut down.
+13:09:46.29 [INFO] Completed: Building black.pex from resource://pants.backend.python.lint.black/black.lock
+13:09:46.53 [INFO] notify invalidation: cleared 1 and dirtied 102 nodes for: {"", ".tmp807y02.hardlink_canary"}
+13:09:46.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", ".tmp807y02.hardlink_canary"}
+13:09:46.53 [INFO] notify invalidation: cleared 1 and dirtied 73 nodes for: {"BUILD"}
+13:09:46.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"BUILD"}
+13:09:46.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"BUILD"}
+13:09:46.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"BUILD"}
+13:09:46.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "BUILD"}
+13:09:46.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"BUILD", ""}

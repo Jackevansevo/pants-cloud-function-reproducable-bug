@@ -1,0 +1,7 @@
+13:38:11.41 [WARN] File watcher exiting with: The watcher was shut down.
+13:38:16.93 [INFO] notify invalidation: cleared 1 and dirtied 79 nodes for: {"services/BUILD"}
+13:38:16.93 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"services/BUILD"}
+13:38:16.93 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"services/BUILD"}
+13:38:16.93 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"services/BUILD"}
+13:38:16.93 [INFO] notify invalidation: cleared 1 and dirtied 97 nodes for: {"services", "services/BUILD"}
+13:38:16.93 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"services", "services/BUILD"}

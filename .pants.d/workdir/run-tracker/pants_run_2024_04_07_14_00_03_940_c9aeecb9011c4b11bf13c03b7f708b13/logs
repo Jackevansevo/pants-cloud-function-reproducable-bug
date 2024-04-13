@@ -1,0 +1,25 @@
+14:00:07.27 [WARN] File watcher exiting with: The watcher was shut down.
+14:00:08.31 [INFO] Completed: Building local_dists.pex
+14:00:08.32 [31m[ERROR][0m 1 Exception encountered:
+
+Engine traceback:
+  in `run` goal
+
+ProcessExecutionFailure: Process 'Building local_dists.pex' failed with exit code 102.
+stdout:
+
+stderr:
+Could not find a compatible interpreter.
+
+Examined the following interpreters:
+1.) /home/jackevans/.pyenv/versions/3.11.9/bin/python3.11 CPython==3.11.9
+2.) /home/jackevans/.pyenv/versions/3.12.2/bin/python3.12 CPython==3.12.2
+
+No interpreter compatible with the requested constraints was found:
+
+  Version matches CPython==3.12
+
+
+
+Use `--keep-sandboxes=on_failure` to preserve the process chroot for inspection.
+

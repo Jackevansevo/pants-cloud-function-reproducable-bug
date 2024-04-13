@@ -1,0 +1,5 @@
+13:11:11.81 [WARN] File watcher exiting with: The watcher was shut down.
+13:11:15.56 [INFO] Completed: Building 6 requirements for gunicorn.pex from the 3rdparty/python/default.lock resolve: flask, flask-migrate, flask-sqlalchemy, gunicorn, psycopg[binary], sqlalchemy
+13:11:15.56 [INFO] notify invalidation: cleared 1 and dirtied 237 nodes for: {"", ".tmpKeuB6V.hardlink_canary"}
+13:11:15.56 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", ".tmpKeuB6V.hardlink_canary"}
+13:11:15.56 [INFO] Wrote dist/gunicorn.pex

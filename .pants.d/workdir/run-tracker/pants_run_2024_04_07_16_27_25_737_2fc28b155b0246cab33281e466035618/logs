@@ -1,0 +1,9 @@
+16:27:29.65 [WARN] File watcher exiting with: The watcher was shut down.
+16:27:29.72 [INFO] Reading /home/jackevans/code/pantstest/.python-version to determine desired version for [python-bootstrap].search_path.
+16:27:32.80 [INFO] Completed: Building 3 requirements for functions/function.pex from the 3rdparty/python/default.lock resolve: functions-framework, pdbpp, python-dotenv
+16:29:24.45 [INFO] notify invalidation: cleared 1 and dirtied 170 nodes for: {"BUILD"}
+16:29:24.45 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"BUILD"}
+16:29:24.45 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"BUILD"}
+16:29:24.45 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"BUILD"}
+16:29:24.45 [INFO] notify invalidation: cleared 1 and dirtied 231 nodes for: {"BUILD", ""}
+16:29:24.45 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "BUILD"}

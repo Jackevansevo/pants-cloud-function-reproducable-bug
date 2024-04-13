@@ -1,0 +1,56 @@
+13:41:56.12 [WARN] File watcher exiting with: The watcher was shut down.
+13:41:57.78 [INFO] Completed: Building docker image app:latest
+13:41:57.78 [33m[WARN][0m Docker build failed for `docker_image` services:app. The services/Dockerfile.app has `COPY` instructions for source files that may not have been found in the Docker build context.
+
+The following files were not found in the Docker build context:
+
+  * ./gunicorn.pex
+
+
+13:41:57.78 [31m[ERROR][0m 1 Exception encountered:
+
+Engine traceback:
+  in `package` goal
+
+ProcessExecutionFailure: Process 'Building docker image app:latest' failed with exit code 1.
+stdout:
+
+stderr:
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile.app
+#1 transferring dockerfile: 165B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for docker.io/library/python:3.11-slim
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM docker.io/library/python:3.11-slim
+#4 CACHED
+
+#5 [internal] load build context
+#5 transferring context: 2B done
+#5 DONE 0.0s
+
+#6 [2/2] COPY ./gunicorn.pex /bin/app
+#6 ERROR: failed to calculate checksum of ref b78e4815-83d9-4a06-827f-c65416c011d6::mt2mh99340zg9ex4h7qi8x6jx: "/gunicorn.pex": not found
+------
+ > [2/2] COPY ./gunicorn.pex /bin/app:
+------
+Dockerfile.app:2
+--------------------
+   1 |     FROM python:3.11-slim
+   2 | >>> COPY ./gunicorn.pex /bin/app
+   3 |     ENTRYPOINT app
+   4 |     
+--------------------
+ERROR: failed to solve: failed to compute cache key: failed to calculate checksum of ref b78e4815-83d9-4a06-827f-c65416c011d6::mt2mh99340zg9ex4h7qi8x6jx: "/gunicorn.pex": not found
+
+
+
+Use `--keep-sandboxes=on_failure` to preserve the process chroot for inspection.
+

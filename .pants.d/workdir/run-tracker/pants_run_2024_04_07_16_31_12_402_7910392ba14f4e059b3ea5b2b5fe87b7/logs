@@ -1,0 +1,53 @@
+16:31:16.76 [WARN] File watcher exiting with: The watcher was shut down.
+16:31:16.84 [INFO] Reading /home/jackevans/code/pantstest/.python-version to determine desired version for [python-bootstrap].search_path.
+16:31:20.43 [INFO] Completed: Building 4 requirements for functions/function.pex from the 3rdparty/python/default.lock resolve: functions-framework, pdbpp, python-dotenv, setuptools
+16:32:14.68 [INFO] notify invalidation: cleared 1 and dirtied 29 nodes for: {"functions/main.py"}
+16:32:14.68 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:32:14.68 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:32:14.68 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:32:14.68 [INFO] notify invalidation: cleared 1 and dirtied 79 nodes for: {"functions/main.py", "functions"}
+16:32:14.68 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions", "functions/main.py"}
+16:32:22.25 [INFO] notify invalidation: cleared 1 and dirtied 82 nodes for: {"pyproject.toml"}
+16:32:22.25 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"pyproject.toml"}
+16:32:22.25 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"pyproject.toml"}
+16:32:22.25 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"pyproject.toml"}
+16:32:22.26 [INFO] notify invalidation: cleared 1 and dirtied 241 nodes for: {"", "pyproject.toml"}
+16:32:22.26 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"pyproject.toml", ""}
+16:32:28.70 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"services/app.py"}
+16:32:28.71 [INFO] notify invalidation: cleared 1 and dirtied 63 nodes for: {"services/app.py", "services"}
+16:32:33.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:32:33.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:32:33.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:32:33.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:32:33.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions", "functions/main.py"}
+16:32:33.51 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions", "functions/main.py"}
+16:32:37.73 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:32:37.73 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:32:37.73 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:32:37.73 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:32:37.74 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py", "functions"}
+16:32:37.74 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions", "functions/main.py"}
+16:32:40.09 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:32:40.09 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:32:40.09 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:32:40.09 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:32:40.09 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py", "functions"}
+16:32:40.09 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions", "functions/main.py"}
+16:32:42.30 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:32:42.30 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:32:42.30 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:32:42.30 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:32:42.30 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions", "functions/main.py"}
+16:32:42.30 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions", "functions/main.py"}
+16:33:06.84 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:33:06.84 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:33:06.84 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:33:06.84 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:33:06.84 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions", "functions/main.py"}
+16:33:06.84 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions", "functions/main.py"}
+16:33:12.14 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:33:12.14 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:33:12.14 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:33:12.14 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions/main.py"}
+16:33:12.14 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions", "functions/main.py"}
+16:33:12.14 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"functions", "functions/main.py"}

@@ -1,0 +1,20 @@
+[project]
+name = 'test'
+dependencies = [
+  'flask',
+  'flask-migrate',
+  'flask-shell-ipython',
+  'flask-sqlalchemy',
+  'functions-framework',
+  'gunicorn',
+  'pdbpp',
+  'pgcli',
+  'psycopg[binary]',
+  'python-dotenv',
+  'ruff',
+  'ruff-lsp',
+  'sqlalchemy',
+]
+
+[tool.ruff.lint]
+extend-select = ["B", "Q", "I"]

@@ -1,0 +1,42 @@
+08:11:41.19 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".BUILD.swp"}
+08:11:46.75 [INFO] Completed: Building 5 requirements for flask.pex from the 3rdparty/python/default.lock resolve: flask, flask-migrate, flask-shell-ipython, flask-sqlalchemy, python-dotenv
+08:11:52.97 [INFO] notify invalidation: cleared 1 and dirtied 250 nodes for: {"instance", ""}
+08:11:55.75 [INFO] Extending leases
+08:11:55.77 [INFO] Done extending leases
+08:11:56.80 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".app.py.swp"}
+08:12:00.84 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".app.py.swp"}
+08:12:05.50 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".app.py.swp"}
+08:12:27.53 [ERROR] Uncaught exception in nailgun handler: Throw {
+    val: Timed out while waiting for another pants invocation to finish.,
+    python_traceback: "Traceback (most recent call last):\n  File \"/home/jackevans/.cache/nce/60b513559c7b53eb2acecbd7b8aaaeb942686f3997d07fa77377b51324f58fda/bindings/venvs/2.20.0rc2/lib/python3.9/site-packages/pants/bin/daemon_pants_runner.py\", line 163, in __call__\n    with self._one_run_at_a_time(\n  File \"/home/jackevans/.cache/nce/67912efc04f9156d8f5b48a0348983defb964de043b8c13ddc6cc8a002f8e691/cpython-3.9.18+20240107-x86_64-unknown-linux-gnu-install_only.tar.gz/python/lib/python3.9/contextlib.py\", line 119, in __enter__\n    return next(self.gen)\n  File \"/home/jackevans/.cache/nce/60b513559c7b53eb2acecbd7b8aaaeb942686f3997d07fa77377b51324f58fda/bindings/venvs/2.20.0rc2/lib/python3.9/site-packages/pants/bin/daemon_pants_runner.py\", line 94, in _one_run_at_a_time\n    raise ExclusiveRequestTimeout(\npants.bin.daemon_pants_runner.ExclusiveRequestTimeout: Timed out while waiting for another pants invocation to finish.\n",
+    engine_traceback: [],
+}
+08:12:54.62 [INFO] notify invalidation: cleared 1 and dirtied 250 nodes for: {".app.py.swp", ""}
+08:12:54.62 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".app.py.swp", ""}
+08:12:54.62 [INFO] notify invalidation: cleared 1 and dirtied 250 nodes for: {".pants.toml.swp", ""}
+08:12:54.62 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", ".pants.toml.swx"}
+08:12:54.62 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", ".pants.toml.swx"}
+08:12:54.62 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".pants.toml.swx", ""}
+08:12:54.62 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", ".pants.toml.swp"}
+08:12:54.62 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".pants.toml.swp", ""}
+08:12:54.62 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", ".pants.toml.swp"}
+08:12:54.62 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".pants.toml.swp"}
+08:12:55.63 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".pants.toml.swp"}
+08:13:03.84 [INFO] notify invalidation: cleared 1 and dirtied 250 nodes for: {"4913", ""}
+08:13:03.84 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"4913", ""}
+08:13:03.84 [INFO] notify invalidation: cleared 1 and dirtied 250 nodes for: {"", "4913"}
+08:13:03.84 [INFO] notify invalidation: cleared 1 and dirtied 0 nodes for: {"", "pants.toml"}
+08:13:03.84 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "pants.toml~"}
+08:13:03.84 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"pants.toml~", "", "pants.toml"}
+08:13:03.84 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"pants.toml", ""}
+08:13:03.84 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".pants.toml.swp"}
+08:13:03.84 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".pants.toml.swp"}
+08:13:03.84 [ERROR] saw filesystem changes covered by invalidation globs: SnapshotDiff(our_unique_files=('pants.toml',), our_unique_dirs=(), their_unique_files=(), their_unique_dirs=(), changed_files=()). terminating the daemon.
+08:13:03.87 [INFO] notify invalidation: cleared 1 and dirtied 250 nodes for: {"pants.toml", ""}
+08:13:03.87 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"pants.toml"}
+08:13:03.87 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"pants.toml"}
+08:13:03.87 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", "pants.toml"}
+08:13:03.87 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {".pants.toml.swp"}
+08:13:03.87 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"pants.toml~", ""}
+08:13:03.93 [ERROR] service failure for <pants.pantsd.service.scheduler_service.SchedulerService object at 0x7f7d3ef73fa0>.
+08:13:03.93 [INFO] Waiting for ongoing runs to complete before exiting...

@@ -1,0 +1,8 @@
+18:49:33.92 [WARN] File watcher exiting with: The watcher was shut down.
+18:49:33.95 [31m[ERROR][0m 1 Exception encountered:
+
+Engine traceback:
+  in `package` goal
+
+ResolveError: The file or directory 'linux_x86_64-cp311-cp311' does not exist on disk in the workspace, so the address 'linux_x86_64-cp311-cp311' from the `complete_platforms` from the target functions:cloud_function cannot be resolved.
+

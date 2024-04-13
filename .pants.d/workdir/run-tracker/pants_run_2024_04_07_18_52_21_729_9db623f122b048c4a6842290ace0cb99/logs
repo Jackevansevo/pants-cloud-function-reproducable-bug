@@ -1,0 +1,25 @@
+18:52:25.80 [WARN] File watcher exiting with: The watcher was shut down.
+18:52:25.85 [INFO] Reading /home/jackevans/code/pantstest/.python-version to determine desired version for [python-bootstrap].search_path.
+18:52:26.83 [INFO] Completed: Generate lockfile for python-default
+18:52:26.84 [31m[ERROR][0m 1 Exception encountered:
+
+Engine traceback:
+  in `generate-lockfiles` goal
+
+ProcessExecutionFailure: Process 'Generate lockfile for python-default' failed with exit code 1.
+stdout:
+
+stderr:
+When creating a universal lock with an --interpreter-constraint, an interpreter matching the constraint must be found on the local system but none was: Could not find a compatible interpreter.
+
+Examined the following interpreters:
+1.) /home/jackevans/.pyenv/versions/3.12.2/bin/python3.12 CPython==3.12.2
+
+No interpreter compatible with the requested constraints was found:
+
+  Version matches CPython==3.11.9
+
+
+
+Use `--keep-sandboxes=on_failure` to preserve the process chroot for inspection.
+

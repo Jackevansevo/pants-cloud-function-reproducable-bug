@@ -1,0 +1,38 @@
+15:12:57.50 [WARN] File watcher exiting with: The watcher was shut down.
+15:12:57.57 [INFO] Reading /home/jackevans/code/pantstest/.python-version to determine desired version for [python-bootstrap].search_path.
+15:13:06.26 [INFO] Completed: Building ruff.pex from resource://pants.backend.python.lint.ruff/ruff.lock
+15:13:06.31 [33m[WARN][0m Completed: Format with `ruff format` - ruff format made changes.
+  migrations/versions/04159c655998_added_date_of_birth.py
+  migrations/versions/f2eccc06c061_added_age.py
+15:13:06.31 [INFO] notify invalidation: cleared 1 and dirtied 104 nodes for: {"", ".tmp5jM2vk.hardlink_canary"}
+15:13:06.31 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"", ".tmp5jM2vk.hardlink_canary"}
+15:13:06.31 [INFO] notify invalidation: cleared 1 and dirtied 2 nodes for: {"migrations/env.py"}
+15:13:06.31 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"migrations/env.py"}
+15:13:06.31 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"migrations/env.py"}
+15:13:06.31 [INFO] notify invalidation: cleared 1 and dirtied 2 nodes for: {"services/app.py"}
+15:13:06.31 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"migrations/env.py"}
+15:13:06.31 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"services/app.py"}
+15:13:06.31 [INFO] notify invalidation: cleared 1 and dirtied 42 nodes for: {"migrations/env.py", "migrations"}
+15:13:06.31 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"migrations/env.py", "migrations"}
+15:13:06.31 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"services/app.py"}
+15:13:06.31 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"services/app.py"}
+15:13:06.31 [INFO] notify invalidation: cleared 1 and dirtied 38 nodes for: {"services/app.py", "services"}
+15:13:06.31 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"services/app.py", "services"}
+15:13:06.31 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"migrations/versions/f2eccc06c061_added_age.py"}
+15:13:06.31 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"migrations/versions/f2eccc06c061_added_age.py"}
+15:13:06.31 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"migrations/versions/04159c655998_added_date_of_birth.py"}
+15:13:06.31 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"migrations/versions/04159c655998_added_date_of_birth.py"}
+15:13:06.31 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"migrations/versions/f2eccc06c061_added_age.py"}
+15:13:06.31 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"migrations/versions/f2eccc06c061_added_age.py"}
+15:13:06.31 [INFO] notify invalidation: cleared 1 and dirtied 30 nodes for: {"migrations/versions", "migrations/versions/f2eccc06c061_added_age.py"}
+15:13:06.31 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"migrations/versions/f2eccc06c061_added_age.py", "migrations/versions"}
+15:13:06.31 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"migrations/versions/1d963d62177d_initial_migration.py"}
+15:13:06.31 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"migrations/versions/1d963d62177d_initial_migration.py"}
+15:13:06.31 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"migrations/versions/1d963d62177d_initial_migration.py"}
+15:13:06.31 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"migrations/versions/04159c655998_added_date_of_birth.py"}
+15:13:06.31 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"migrations/versions/1d963d62177d_initial_migration.py"}
+15:13:06.31 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"migrations/versions/04159c655998_added_date_of_birth.py"}
+15:13:06.31 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"migrations/versions", "migrations/versions/1d963d62177d_initial_migration.py"}
+15:13:06.31 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"migrations/versions", "migrations/versions/04159c655998_added_date_of_birth.py"}
+15:13:06.31 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"migrations/versions", "migrations/versions/1d963d62177d_initial_migration.py"}
+15:13:06.31 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"migrations/versions", "migrations/versions/04159c655998_added_date_of_birth.py"}

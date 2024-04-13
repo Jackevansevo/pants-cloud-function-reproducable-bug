@@ -1,0 +1,3 @@
+16:26:57.01 [WARN] File watcher exiting with: The watcher was shut down.
+16:26:57.07 [INFO] Reading /home/jackevans/code/pantstest/.python-version to determine desired version for [python-bootstrap].search_path.
+16:27:00.15 [INFO] Completed: Building 3 requirements for functions/function.pex from the 3rdparty/python/default.lock resolve: functions-framework, pdbpp, python-dotenv

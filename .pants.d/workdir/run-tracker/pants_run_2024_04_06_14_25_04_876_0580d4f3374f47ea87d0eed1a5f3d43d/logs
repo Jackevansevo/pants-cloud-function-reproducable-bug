@@ -1,0 +1,5 @@
+14:25:08.72 [WARN] File watcher exiting with: The watcher was shut down.
+14:25:13.02 [INFO] Completed: Building 8 requirements for flask.pex from the 3rdparty/python/default.lock resolve: flask, flask-migrate, flask-shell-ipython, flask-sqlalchemy, pdbpp, psycopg[binary], python-dotenv, sqlalchemy
+14:25:15.53 [INFO] notify invalidation: cleared 1 and dirtied 60 nodes for: {"migrations/versions", "migrations/versions/f2eccc06c061_added_age.py"}
+14:25:15.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"migrations/versions/f2eccc06c061_added_age.py"}
+14:25:15.53 [INFO] notify invalidation: cleared 0 and dirtied 0 nodes for: {"migrations/versions", "migrations/versions/f2eccc06c061_added_age.py"}
