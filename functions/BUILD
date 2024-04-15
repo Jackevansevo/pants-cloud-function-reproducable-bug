@@ -4,8 +4,7 @@ python_google_cloud_function(
     name="cloud_function",
     handler="main.py:handler",
     type="http",
-    # complete_platforms=["//:platforms"],
-    runtime="python311",
+    complete_platforms=["//:platforms"],
 )
 
 pex_binary(
