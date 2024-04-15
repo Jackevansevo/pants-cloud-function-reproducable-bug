@@ -2,9 +2,10 @@ python_sources()
 
 python_google_cloud_function(
     name="cloud_function",
-    runtime="python311",
     handler="main.py:handler",
     type="http",
+    # complete_platforms=["//:platforms"],
+    runtime="python311",
 )
 
 pex_binary(

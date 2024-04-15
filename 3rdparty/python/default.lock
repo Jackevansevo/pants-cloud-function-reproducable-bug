@@ -14,6 +14,7 @@
 //     "flask-shell-ipython",
 //     "flask-sqlalchemy",
 //     "functions-framework",
+//     "greenlet",
 //     "gunicorn",
 //     "pdbpp",
 //     "pgcli",
@@ -1443,13 +1444,13 @@
           "artifacts": [
             {
               "algorithm": "sha256",
-              "hash": "3b2dbd8f63dcc6b7c327d0243c2d7dc8c96cc507c016f09221f3787e6e528719",
-              "url": "https://files.pythonhosted.org/packages/9a/dd/5be5c6958d2d8fccf26b0274303f2c960a0eba88b84980e71e6f795cdd87/setuptools-69.5.0-py3-none-any.whl"
+              "hash": "c636ac361bc47580504644275c9ad802c50415c7522212252c033bd15f301f32",
+              "url": "https://files.pythonhosted.org/packages/f7/29/13965af254e3373bceae8fb9a0e6ea0d0e571171b80d6646932131d6439b/setuptools-69.5.1-py3-none-any.whl"
             },
             {
               "algorithm": "sha256",
-              "hash": "8d881f842bfc0e29e93bc98a2e650e8845609adff4d2989ba6c748e67b09d5be",
-              "url": "https://files.pythonhosted.org/packages/76/6c/a1e240d85b63e04b2f6786a39e32ea78ad9ec7a9e8193b5510b63b5add94/setuptools-69.5.0.tar.gz"
+              "hash": "6c1fccdac05a97e598fb0ae3bbed5904ccb317337a51139dcd51453611bbb987",
+              "url": "https://files.pythonhosted.org/packages/d6/4f/b10f707e14ef7de524fe1f8988a294fb262a29c9b5b12275c7e188864aed/setuptools-69.5.1.tar.gz"
             }
           ],
           "project_name": "setuptools",
@@ -1503,7 +1504,7 @@
             "wheel; extra == \"testing-integration\""
           ],
           "requires_python": ">=3.8",
-          "version": "69.5.0"
+          "version": "69.5.1"
         },
         {
           "artifacts": [
@@ -1937,6 +1938,7 @@
     "flask-shell-ipython",
     "flask-sqlalchemy",
     "functions-framework",
+    "greenlet",
     "gunicorn",
     "pdbpp",
     "pgcli",
