@@ -1,28 +1,22 @@
 #/bin/bash
 set -eou pipefail
 
-pants package functions:gcf
-pushd dist/functions/gcf.pex
-jq '.requirements | .[]' PEX-INFO -r > requirements.txt
-echo 'from functions.main import handler' > main.py
-
-cat <<EOT >> .gcloudignore
-__main__.py
-__pex__
-PEX-INFO
-.deps
-.bootstrap
-EOT
+pants package functions:cloud_function
+gsutil cp dist/functions/cloud_function.zip gs://gcf-v2-sources-1024641440084-southamerica-east1/function-example.zip
 
 gcloud functions deploy \
 	--allow-unauthenticated \
 	--entry-point=handler \
 	--gen2 \
-	--region=europe-west2 \
-	--runtime=python312 \
+	--region=southamerica-east1 \
+	--runtime=python311 \
 	--set-env-vars=DB_HOST=/cloudsql/example-419500:europe-west2:example \
 	--set-secrets=DB_PASSWORD=projects/1024641440084/secrets/DB_PASSWORD:latest \
 	--trigger-http \
-	example
+	--source=gs://gcf-v2-sources-1024641440084-southamerica-east1/function-example.zip \
+	function-example
 
-popd
+gcloud run services update \
+	--set-cloudsql-instances=example-419500:europe-west2:example \
+	--region=southamerica-east1 \
+	function-example
